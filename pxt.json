@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "v2": "*"
+        "v2": "*",
+        "funk": "*"
     },
     "files": [
         "main.blocks",
@@ -19,5 +20,6 @@
     },
     "supportedTargets": [
         "calliopemini"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
